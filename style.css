@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(212, 209, 212);
+}
+
+.name {
+  background-color: black;
+  font-size: xx-large;
+}
+.name {
+  color: white;
+}
+
+.hobbies {
+  color: rgb(78, 9, 9);
+}
+p:first-child {
+  color: green;
+}
+
+a:hover {
+  color: black;
+}
+.contactlink {
+  color: rgb(0, 0, 252);
+}
+.form {
+  background-color: rgb(107, 92, 91);
+}
